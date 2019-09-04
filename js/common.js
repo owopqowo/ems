@@ -194,7 +194,7 @@ $(function(){
 	//gnb on
 	$('.gnb>li>a').each(function(){
 		var link = $(this).attr('href'),
-		oneDepth = link.split('/')[1];
+		oneDepth = link.split('/')[2];
 		if(href.indexOf(oneDepth) != -1){
 			$(this).parent('li').addClass('on');
 		}
