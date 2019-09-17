@@ -133,8 +133,41 @@
 		<div class="inner">
 			<h3 class="title">조직도</h3>
 			<p class="desc">고객의 신뢰와 사랑을 받는 최상의 HR아웃소싱 서비스를 창출하는데 최선을 다하고 있습니다.</p>
-			<img src="../images/organization.png" alt="동양EMS 조직도" class="pc">
-			<img src="../images/organization_m.png" alt="동양EMS 조직도" class="mobile">
+			<ul class="tree">
+				<li>
+					<span>대표이사</span>
+					<ul>
+						<li><span>감사</span></li>
+						<li>
+							<span>전무이사</span>
+							<ul>
+								<li>
+									<span>경영지원실</span>
+									<ul>
+										<li><span>업무지원팀</span></li>
+										<li><span>급여/회계팀</span></li>
+									</ul>
+								</li>
+								<li>
+									<span>아웃소싱사업부</span>
+									<ul>
+										<li><span>전략기획팀</span></li>
+										<li><span>사업운영팀</span></li>
+										<li><span>컨설팅팀</span></li>
+									</ul>
+								</li>
+								<li>
+									<span>인재지원사업부</span>
+									<ul>
+										<li><span>인재지원팀</span></li>
+										<li><span>채용대행팀</span></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
 		</div>
 	</div>
 	<!-- //organization -->
